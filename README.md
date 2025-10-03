@@ -38,7 +38,6 @@ The optimized GDI DFF design demonstrated significant performance improvements o
 | **Area** | **94.3% Reduction** |
 | **Robustness** | Ensured stable, robust operation in the 16nm process through channel length engineering. |
 
---
 
 ## Contributors
 
