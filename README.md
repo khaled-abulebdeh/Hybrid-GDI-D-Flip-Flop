@@ -38,15 +38,6 @@ The optimized GDI DFF design demonstrated significant performance improvements o
 | **Area** | **94.3% Reduction** |
 | **Robustness** | Ensured stable, robust operation in the 16nm process through channel length engineering. |
 
-## Documentation and Deliverables
-
-The complete project is summarized in a technical paper drafted in **IEEE format**, suitable for journal submission or academic assessment.
-
-* **Final Technical Paper:** `Robust_12_Transistor_Hybrid_GDI_D_Flip_Flop_in_16nm_CMOS_via_Channel_Length_Engineering.pdf`
-* **Project Outline:** `Ic_Project_Second_semester_2024.pdf`
-* **Deliverables:** Transistor-level schematic and layout files, simulation results (waveforms, power, delay), and comparative charts/tables.
-
----
 
 ## Contributors
 
