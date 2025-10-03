@@ -1,4 +1,4 @@
-# GDI D Flip-Flop: Ultra-Low-Power Digital Design 💡
+# GDI D Flip-Flop: Ultra-Low-Power Digital Design 
 
 ## Project Overview
 
